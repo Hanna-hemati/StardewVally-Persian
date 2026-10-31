@@ -1,8 +1,8 @@
 {
   "Name": "Farsi Mod 2",
   "Author": "Hana",
-  "Version": "2.2.2",
-  "Description": "Persian translation with character voices, RTL line wrapping/alignment, animated typing, fixed RTL tooltips, runtime shaping, and Gemini-reviewed text.",
+  "Version": "2.2.3",
+  "Description": "Persian translation with character voices, RTL line wrapping/alignment, animated typing, fixed RTL tooltips and fish UI, runtime shaping, and Gemini-reviewed text.",
   "UniqueID": "Hana.FarsiMod2",
   "EntryDll": "FarsiMod2.dll",
   "MinimumApiVersion": "4.0.0",
