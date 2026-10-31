@@ -1,0 +1,25 @@
+{
+  "asset": "Strings/Lexicon",
+  "entries": {
+    "RandomNegativeItemNoun": "زباله#آشغال#بنجل#لجن#چرند",
+    "RandomPositiveAdjective_Child": "باحال#سرگرم‌کننده#جالب#خوب#قشنگ#فوق‌العاده#عالی",
+    "RandomPositiveAdjective_AdultMale": "جالب#هیجان‌انگیز#تر و تمیز#سرگرم‌کننده#عالی#معرکه",
+    "RandomPositiveAdjective_AdultFemale": "فوق‌العاده#شگفت‌انگیز#دلگرم‌کننده#جادویی#باورنکردنی#دوست‌داشتنی#شورآفرین#لذت‌بخش",
+    "RandomPositiveAdjective_PlaceOrEvent": "فوق‌العاده#شگفت‌انگیز#دلگرم‌کننده#جادویی#باورنکردنی#دوست‌داشتنی#هیجان‌انگیز#لذت‌بخش",
+    "RandomDeliciousAdjective": "لذیذ#خوشمزه#عالی#رضایت‌بخش#سیرکننده#خوش‌طعم#اشتهاآور#دلپذیر",
+    "RandomDeliciousAdjective_Child": "خوشمزه",
+    "RandomNegativeFoodAdjective_Child": "چندش‌آور",
+    "RandomNegativeFoodAdjective_Polite": "...جالب#...غیرمعمول#...متفاوت#...نامتعارف",
+    "RandomNegativeFoodAdjective": "بدطعم#چندش‌آور#نفرت‌انگیز#افتضاح#حال‌به‌هم‌زن#دل‌آشوب‌کننده#وحشتناک#منزجرکننده#تهوع‌آور#بدبو#هولناک#گندیده",
+    "RandomSlightlyPositiveFoodAdjective": "مناسب#خوب#خوردنی",
+    "ChildTerm_Male": "پسر",
+    "ChildTerm_Female": "دختر",
+    "Pronoun_Male": "او",
+    "Pronoun_Female": "او",
+    "QuestionDialogue_Yes": "بله",
+    "QuestionDialogue_No": "خیر",
+    "GenericPlayerTerm": "کشاورز",
+    "Possessive_Pronoun_Male": "او",
+    "Possessive_Pronoun_Female": "او"
+  }
+}

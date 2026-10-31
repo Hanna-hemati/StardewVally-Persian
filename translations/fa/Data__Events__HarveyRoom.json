@@ -1,0 +1,6 @@
+{
+  "asset": "Data/Events/HarveyRoom",
+  "entries": {
+    "normal": "pause 400/speak Harvey \"ببخشید من کلا ژولیده ام... نمیدونستم داری میای.$h\"/move farmer 0 -2 0/pause 600/speak Harvey \"هی، فکر می کنم صدای هواپیما را می شنوم...\"/move Harvey 0 1 3/move Harvey -3 0 0/move Harvey 0 -2 0/speak Harvey \"@، به اینجا بروید!\"/move farmer 0 -1 3/move farmer -4 0 0/move farmer 0 -2 0/speak Harvey \"نگاه کن\"/globalFade/cutscene plane/viewport -1000 -1000/speak Harvey \"از بچگی آرزوی من همیشه خلبان شدن بود.\"/pause 1000/speak Harvey \"اما با بینایی بد من و ترس فلج کننده از ارتفاع، آن رویا شروع به محو شدن کرد.$s\"/faceDirection Harvey 3/faceDirection farmer 1/viewport 5 6 true/pause 1000/emote farmer 28/speak Harvey \"اشکالی نداره... ناراحت نباش.#$b#من رشد کرده ام تا جایگاهم را در زندگی بپذیرم. همه نمی توانند به آرزوهایشان برسند... دنیا همین است.\"/pause 1600/speak Harvey \"سلام، اجازه دهید هواپیماهای مدل خود را به شما نشان دهم. من به تازگی ست لوکس جدید TR-Starbird را تمام کردم.$h\"/advancedMove Harvey false 0 2 4 0/faceDirection farmer 2/end"
+  }
+}

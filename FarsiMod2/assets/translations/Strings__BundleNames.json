@@ -1,0 +1,24 @@
+{
+  "asset": "Strings/BundleNames",
+  "entries": {
+    "Rare Crops": "ﻣﺤﺼﻮﻻﺕ ﮐﻤﯿﺎﺏ",
+    "Fish Farmer's": "ﭘﺮﻭﺭﺵﺩﻫﻨﺪﻩ ﻣﺎﻫﯽ",
+    "Garden": "ﺑﺎﻏﭽﻪ",
+    "Brewer's": "ﻧﻮﺷﯿﺪﻧﯽﺳﺎﺯ",
+    "Quality Fish": "ﻣﺎﻫﯽ ﺑﺎﮐﯿﻔﯿﺖ",
+    "Master Fisher's": "ﻣﺎﻫﯿﮕﯿﺮ ﭼﯿﺮﻩﺩﺳﺖ",
+    "Treasure Hunter's": "ﮔﻨﺞﯾﺎﺏ",
+    "Children's": "ﺑﭽﻪﻫﺎ",
+    "Forager's": "ﻃﺒﯿﻌﺖﮔﺮﺩ",
+    "Home Cook's": "ﺁﺷﭙﺰ ﺧﺎﻧﮕﯽ",
+    "Wild Medicine": "ﺩﺍﺭﻭﯼ ﻭﺣﺸﯽ",
+    "Sticky": "ﭼﺴﺒﻨﺎﮎ",
+    "Engineer's": "ﻣﻬﻨﺪﺱ",
+    "Forest": "ﺟﻨﮕﻞ",
+    "Helper's": "ﯾﺎﻭﺭ",
+    "Spirit's Eve": "ﺷﺐ ﺍﺭﻭﺍﺡ",
+    "Winter Star": "ﺳﺘﺎﺭﻩ ﺯﻣﺴﺘﺎﻧﯽ",
+    "Aquatic Jelly": "ﮊﻟﻪ ﺩﺭﯾﺎﯾﯽ",
+    "Bookworm's": "ﺧﻮﺭﻩ ﮐﺘﺎﺏ"
+  }
+}

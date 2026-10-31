@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <LangVersion>10</LangVersion>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>FarsiMod2</AssemblyName>
+    <PlatformTarget>x64</PlatformTarget>
+    <RootNamespace>FarsiMod2</RootNamespace>
+    <EnableDefaultCompileItems>true</EnableDefaultCompileItems>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <OutputPath>bin</OutputPath>
+    <CopyLocalLockFileAssemblies>false</CopyLocalLockFileAssemblies>
+    <GameDir Condition="'$(GameDir)' == ''">/Applications/Stardew Valley.app/Contents/MacOS</GameDir>
+    <SmapiDir Condition="'$(SmapiDir)' == ''">../tools/smapi-toolkit</SmapiDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="StardewModdingAPI"><HintPath>$(SmapiDir)/StardewModdingAPI.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Stardew Valley"><HintPath>$(GameDir)/Stardew Valley.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="StardewValley.GameData"><HintPath>$(GameDir)/StardewValley.GameData.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="MonoGame.Framework"><HintPath>$(GameDir)/MonoGame.Framework.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="SMAPI.Toolkit.CoreInterfaces"><HintPath>$(SmapiDir)/smapi-internal/SMAPI.Toolkit.CoreInterfaces.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="SMAPI.Toolkit"><HintPath>$(SmapiDir)/smapi-internal/SMAPI.Toolkit.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="BmFont"><HintPath>$(GameDir)/BmFont.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="0Harmony"><HintPath>$(SmapiDir)/smapi-internal/0Harmony.dll</HintPath><Private>false</Private></Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="manifest.json" CopyToOutputDirectory="PreserveNewest" />
+    <None Include="LICENSES/**/*" CopyToOutputDirectory="PreserveNewest" LinkBase="LICENSES" />
+    <None Include="../README.fa.md" CopyToOutputDirectory="PreserveNewest" Link="README.md" />
+    <None Include="assets/**/*" CopyToOutputDirectory="PreserveNewest" LinkBase="assets" />
+  </ItemGroup>
+</Project>

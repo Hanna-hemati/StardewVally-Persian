@@ -1,0 +1,23 @@
+{
+  "asset": "Strings/EnchantmentNames",
+  "entries": {
+    "Starburst": "انفجار ستاره‌ای",
+    "Artful": "ماهرانه",
+    "Haymaker": "علوفه‌ساز",
+    "Bug Killer": "حشره‌کش",
+    "Vampiric": "خون‌آشام",
+    "Crusader": "صلیبی",
+    "Powerful": "قدرتمند",
+    "Efficient": "کم‌مصرف",
+    "Swift": "سریع",
+    "Expansive": "گسترده",
+    "Bottomless": "بی‌پایان",
+    "Shaving": "تراشنده",
+    "Archaeologist": "باستان‌شناس",
+    "Generous": "سخاوتمند",
+    "Master": "استاد",
+    "Auto-Hook": "قلاب خودکار",
+    "Preserving": "ماندگار",
+    "Fisher": "ماهیگیر"
+  }
+}

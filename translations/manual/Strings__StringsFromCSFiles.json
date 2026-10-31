@@ -1,0 +1,14 @@
+{
+  "asset": "Strings/StringsFromCSFiles",
+  "entries": {
+    "Game1.cs.3042": "یکشنبه",
+    "Game1.cs.3043": "دوشنبه",
+    "Game1.cs.3044": "سه‌شنبه",
+    "Game1.cs.3045": "چهارشنبه",
+    "Game1.cs.3046": "پنج‌شنبه",
+    "Game1.cs.3047": "جمعه",
+    "Game1.cs.3048": "شنبه",
+    "DayTimeMoneyBox.cs.10370": "ق.ظ",
+    "DayTimeMoneyBox.cs.10371": "ب.ظ"
+  }
+}

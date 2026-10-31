@@ -1,0 +1,10 @@
+.DS_Store
+**/bin/
+**/obj/
+__pycache__/
+*.pyc
+translations/.mt-cache.json
+translations/fa-before-*
+translations/review/
+tools/dotnet*/
+archive/

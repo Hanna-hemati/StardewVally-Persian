@@ -1,0 +1,32 @@
+{
+  "asset": "Strings/Events",
+  "entries": {
+    "BirthMessage_Adoption": "ﺩﺭ ﻃﻮﻝ ﺷﺐ، ﺁﮊﺍﻧﺲ ﻓﺮﺯﻧﺪﺧﻮﺍﻧﺪﮔﯽ ﻧﻮﺯﺍﺩ ﺟﺪﯾﺪ ﺷﻤﺎ {0} ﺭﺍ ﺗﺤﻮﯾﻞ ﺩﺍﺩ.",
+    "BirthMessage_PlayerMother": "ﺩﺭ ﻃﻮﻝ ﺷﺐ، ﺷﻤﺎ ﯾﮏ ﻧﻮﺯﺍﺩ {0} ﺑﻪ ﺩﻧﯿﺎ ﺁﻭﺭﺩﯾﺪ.",
+    "BirthMessage_SpouseMother": "ﺩﺭ ﻃﻮﻝ ﺷﺐ، {1} ﯾﮏ ﻧﻮﺯﺍﺩ {0} ﺑﻪ ﺩﻧﯿﺎ ﺁﻭﺭﺩ.",
+    "BirthMessage_SpouseNaming_Male": "{0} ﻧﺎﻡ ﭘﺴﺮ ﺷﻤﺎ ﺭﺍ ﻣﯽ ﮔﺬﺍﺭﺩ.",
+    "BirthMessage_SpouseNaming_Female": "{0} ﻧﺎﻡ ﺩﺧﺘﺮ ﺷﻤﺎ ﺭﺍ ﻣﯽ ﮔﺬﺍﺭﺩ.",
+    "BabyNamingTitle_Male": "ﺍﺳﻤﺶ ﺭﺍ ﭼﻪ ﺑﮕﺬﺍﺭﯾﻢ؟",
+    "BabyNamingTitle_Female": "ﺍﺳﻤﺶ ﺭﺍ ﭼﻪ ﺑﮕﺬﺍﺭﯾﻢ؟",
+    "HaveBabyQuestion": "ﺁﯾﺎ ﺑﺎﯾﺪ ﺑﭽﻪ ﺩﺍﺭ ﺷﻮﯾﻢ، {0}؟",
+    "HaveBabyQuestion_Adoption": "ﺁﯾﺎ ﺑﺎﯾﺪ ﯾﮏ ﻧﻮﺯﺍﺩ، {0} ﺭﺍ ﺑﻪ ﻓﺮﺯﻧﺪﯼ ﻗﺒﻮﻝ ﮐﻨﯿﻢ؟",
+    "HaveBabyAnswer_Yes": "ﺑﻠﻪ",
+    "HaveBabyAnswer_No": "ﺍﻻﻥ ﻧﻪ...",
+    "HavePlayerBabyQuestion": "ﺁﯾﺎ ﻣﯽ ﺧﻮﺍﻫﯿﺪ ﺑﺎ {0} ﺑﭽﻪ ﺩﺍﺭ ﺷﻮﯾﺪ؟",
+    "HavePlayerBabyQuestion_Adoption": "ﺁﯾﺎ ﻣﯽ ﺧﻮﺍﻫﯿﺪ ﺑﺎ {0} ﻧﻮﺯﺍﺩﯼ ﺭﺍ ﺑﻪ ﻓﺮﺯﻧﺪﯼ ﻗﺒﻮﻝ ﮐﻨﯿﺪ؟",
+    "AnimalBirth": "ﺩﺭ ﻃﻮﻝ ﺷﺐ، {0} ﯾﮏ ﻧﻮﺯﺍﺩ {1} ﺑﻪ ﺩﻧﯿﺎ ﺁﻭﺭﺩ.",
+    "AnimalNamingTitle": "ﻧﺎﻡ ﻧﻮﺯﺍﺩ ﺟﺪﯾﺪ ﺧﻮﺩ ﺭﺍ {0} ﺑﮕﺬﺍﺭﯾﺪ:",
+    "SoundInTheNight_UFO": "ﺩﺭ ﺷﺐ ﺻﺪﺍﯼ ﻋﺠﯿﺒﯽ ﺷﻨﯿﺪﻩ ﺷﺪ...",
+    "SoundInTheNight_Meteorite": "ﺻﺪﺍﯼ ﺍﻧﻔﺠﺎﺭ ﺩﺭ ﺷﺐ ﺷﻨﯿﺪﻩ ﺷﺪ ...",
+    "SoundInTheNight_Earthquake": "ﺩﺭ ﻃﻮﻝ ﺷﺐ ﺯﻟﺰﻟﻪ ﺍﯼ ﺭﺥ ﺩﺍﺩ.",
+    "BeachNightMarket_NowOpen": "ﺑﺎﺯﺍﺭ ﺷﺒﺎﻧﻪ ﺍﮐﻨﻮﻥ ﺑﺎﺯ ﺍﺳﺖ.",
+    "Maru_comet5": "ﻣﻦ ﺭﺍ ﺧﻮﺷﺤﺎﻝ ﻣﯽ ﮐﻨﺪ ﮐﻪ ﺩﺭ ﺍﯾﻦ ﺩﻧﯿﺎﯼ ﭘﺮ ﺟﻨﺐ ﻭ ﺟﻮﺵ ﺑﺎ ﺷﻤﺎ ﺯﻧﺪﮔﯽ ﮐﻨﻢ!",
+    "Maru_comet4": "ﺧﯿﻠﯽ ﺧﺎﻟﯽ، ﺧﯿﻠﯽ ﺗﻨﻬﺎ...",
+    "Maru_comet3": "ﺍﯾﻨﺠﺎ ﺑﺮﺍﯼ ﯾﮏ ﻟﺤﻈﻪ ﮔﺬﺭﺍ ﺩﺭ ﺳﻔﺮ ﺑﯽ ﻧﻬﺎﯾﺘﺶ.",
+    "Maru_comet2": "ﺷﮕﻔﺘﯽ ﻧﺎﺩﺭ ﮐﯿﻬﺎﻥ...",
+    "Maru_comet1": "ﺯﯾﺒﺎﺳﺖ، ﻧﻪ؟",
+    "ElliottBook_mystery": "ﺑﺮﺝ ﺁﺑﯽ",
+    "ElliottBook_romance": "ﺍﯾﺴﺘﮕﺎﻩ ﮐﺎﻣﻠﯿﺎ",
+    "ElliottBook_default": "ﻇﻬﻮﺭ ﻭ ﺳﻘﻮﻁ ﺳﯿﺎﺭﻩ ﯾﺎﺯﻭ"
+  }
+}

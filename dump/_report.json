@@ -1,0 +1,6530 @@
+[
+  {
+    "asset": "Animals/BabyBlue Chicken",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/BabyBrown Chicken",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/BabyBrown Cow",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/BabyGoat",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/BabyGolden Chicken",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/BabyOstrich",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/BabyPig",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/BabyRabbit",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/BabySheep",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/BabyVoid Chicken",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/BabyWhite Chicken",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/BabyWhite Cow",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/Blue Chicken",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/Brown Chicken",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/Brown Cow",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/cat",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/cat1",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/cat2",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/cat3",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/cat4",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/cat5",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/Dinosaur",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/dog",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/dog1",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/dog2",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/dog3",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/dog4",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/dog5",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/Duck",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/Error",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/Goat",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/Golden Chicken",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/horse",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/Ostrich",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/Pig",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/Rabbit",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/ShearedSheep",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/Sheep",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/turtle",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/turtle1",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/Void Chicken",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/White Chicken",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Animals/White Cow",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Barn",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Beach Cabin",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Beach Cabin_PaintMask",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Big Barn",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Big Coop",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Big Shed",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Big Shed_PaintMask",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Coop",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Deluxe Barn",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Deluxe Barn_PaintMask",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Deluxe Coop",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Deluxe Coop_PaintMask",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Desert Obelisk",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Earth Obelisk",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Error",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Fish Pond",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Gold Clock",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Greenhouse",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Hay Pet Bowl",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/houses",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/houses_PaintMask",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Island Obelisk",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Junimo Hut",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Log Cabin",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Log Cabin_PaintMask",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Mailbox",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Mill",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Neighbor Cabin",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Neighbor Cabin_PaintMask",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Pet Bowl",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Plank Cabin",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Plank Cabin_PaintMask",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Rustic Cabin",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Rustic Cabin_PaintMask",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Shed",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Shipping Bin",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Silo",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Slime Hutch",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Stable",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Stable_PaintMask",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Stone Cabin",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Stone Cabin_PaintMask",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Stone Pet Bowl",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Trailer Cabin",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Trailer Cabin_PaintMask",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Water Obelisk",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Buildings/Well",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Abigail",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Abigail_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Abigail_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Alex",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Alex_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Alex_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/asldkfjsquaskutanfsldk",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Assorted_Fishermen",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Assorted_Fishermen_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Baby",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Baby_dark",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Bear",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Birdie",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Bouncer",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Caroline",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Caroline_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Caroline_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Clint",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Clint_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Clint_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/ClothesTherapyCharacters",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Crow",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Demetrius",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Demetrius_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Demetrius_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Dialogue/Abigail",
+    "type": "dict",
+    "count": 150,
+    "chars": 16581
+  },
+  {
+    "asset": "Characters/Dialogue/Alex",
+    "type": "dict",
+    "count": 124,
+    "chars": 13903
+  },
+  {
+    "asset": "Characters/Dialogue/Caroline",
+    "type": "dict",
+    "count": 52,
+    "chars": 6234
+  },
+  {
+    "asset": "Characters/Dialogue/Clint",
+    "type": "dict",
+    "count": 45,
+    "chars": 5356
+  },
+  {
+    "asset": "Characters/Dialogue/Demetrius",
+    "type": "dict",
+    "count": 60,
+    "chars": 7418
+  },
+  {
+    "asset": "Characters/Dialogue/Dwarf",
+    "type": "dict",
+    "count": 23,
+    "chars": 2610
+  },
+  {
+    "asset": "Characters/Dialogue/Elliott",
+    "type": "dict",
+    "count": 96,
+    "chars": 9575
+  },
+  {
+    "asset": "Characters/Dialogue/Emily",
+    "type": "dict",
+    "count": 106,
+    "chars": 11869
+  },
+  {
+    "asset": "Characters/Dialogue/Evelyn",
+    "type": "dict",
+    "count": 49,
+    "chars": 5840
+  },
+  {
+    "asset": "Characters/Dialogue/George",
+    "type": "dict",
+    "count": 33,
+    "chars": 4225
+  },
+  {
+    "asset": "Characters/Dialogue/Gil",
+    "type": "dict",
+    "count": 2,
+    "chars": 88
+  },
+  {
+    "asset": "Characters/Dialogue/Gus",
+    "type": "dict",
+    "count": 38,
+    "chars": 4424
+  },
+  {
+    "asset": "Characters/Dialogue/Haley",
+    "type": "dict",
+    "count": 129,
+    "chars": 13178
+  },
+  {
+    "asset": "Characters/Dialogue/Harvey",
+    "type": "dict",
+    "count": 70,
+    "chars": 8025
+  },
+  {
+    "asset": "Characters/Dialogue/Jas",
+    "type": "dict",
+    "count": 41,
+    "chars": 2801
+  },
+  {
+    "asset": "Characters/Dialogue/Jodi",
+    "type": "dict",
+    "count": 53,
+    "chars": 6835
+  },
+  {
+    "asset": "Characters/Dialogue/Kent",
+    "type": "dict",
+    "count": 34,
+    "chars": 3485
+  },
+  {
+    "asset": "Characters/Dialogue/Krobus",
+    "type": "dict",
+    "count": 30,
+    "chars": 2870
+  },
+  {
+    "asset": "Characters/Dialogue/Leah",
+    "type": "dict",
+    "count": 96,
+    "chars": 11201
+  },
+  {
+    "asset": "Characters/Dialogue/Leo",
+    "type": "dict",
+    "count": 12,
+    "chars": 1041
+  },
+  {
+    "asset": "Characters/Dialogue/LeoMainland",
+    "type": "dict",
+    "count": 20,
+    "chars": 2972
+  },
+  {
+    "asset": "Characters/Dialogue/Lewis",
+    "type": "dict",
+    "count": 71,
+    "chars": 9163
+  },
+  {
+    "asset": "Characters/Dialogue/Linus",
+    "type": "dict",
+    "count": 53,
+    "chars": 6083
+  },
+  {
+    "asset": "Characters/Dialogue/Marnie",
+    "type": "dict",
+    "count": 40,
+    "chars": 4439
+  },
+  {
+    "asset": "Characters/Dialogue/MarriageDialogue",
+    "type": "dict",
+    "count": 211,
+    "chars": 20641
+  },
+  {
+    "asset": "Characters/Dialogue/MarriageDialogueAbigail",
+    "type": "dict",
+    "count": 72,
+    "chars": 7424
+  },
+  {
+    "asset": "Characters/Dialogue/MarriageDialogueAlex",
+    "type": "dict",
+    "count": 49,
+    "chars": 4775
+  },
+  {
+    "asset": "Characters/Dialogue/MarriageDialogueElliott",
+    "type": "dict",
+    "count": 54,
+    "chars": 6600
+  },
+  {
+    "asset": "Characters/Dialogue/MarriageDialogueEmily",
+    "type": "dict",
+    "count": 58,
+    "chars": 5493
+  },
+  {
+    "asset": "Characters/Dialogue/MarriageDialogueHaley",
+    "type": "dict",
+    "count": 44,
+    "chars": 4416
+  },
+  {
+    "asset": "Characters/Dialogue/MarriageDialogueHarvey",
+    "type": "dict",
+    "count": 52,
+    "chars": 6130
+  },
+  {
+    "asset": "Characters/Dialogue/MarriageDialogueKrobus",
+    "type": "dict",
+    "count": 89,
+    "chars": 7071
+  },
+  {
+    "asset": "Characters/Dialogue/MarriageDialogueLeah",
+    "type": "dict",
+    "count": 73,
+    "chars": 6472
+  },
+  {
+    "asset": "Characters/Dialogue/MarriageDialogueMaru",
+    "type": "dict",
+    "count": 57,
+    "chars": 5867
+  },
+  {
+    "asset": "Characters/Dialogue/MarriageDialoguePenny",
+    "type": "dict",
+    "count": 53,
+    "chars": 5572
+  },
+  {
+    "asset": "Characters/Dialogue/MarriageDialogueSam",
+    "type": "dict",
+    "count": 53,
+    "chars": 5876
+  },
+  {
+    "asset": "Characters/Dialogue/MarriageDialogueSebastian",
+    "type": "dict",
+    "count": 67,
+    "chars": 8123
+  },
+  {
+    "asset": "Characters/Dialogue/MarriageDialogueShane",
+    "type": "dict",
+    "count": 66,
+    "chars": 6475
+  },
+  {
+    "asset": "Characters/Dialogue/Maru",
+    "type": "dict",
+    "count": 112,
+    "chars": 11093
+  },
+  {
+    "asset": "Characters/Dialogue/Mister Qi",
+    "type": "dict",
+    "count": 15,
+    "chars": 1877
+  },
+  {
+    "asset": "Characters/Dialogue/Pam",
+    "type": "dict",
+    "count": 71,
+    "chars": 7823
+  },
+  {
+    "asset": "Characters/Dialogue/Penny",
+    "type": "dict",
+    "count": 105,
+    "chars": 12133
+  },
+  {
+    "asset": "Characters/Dialogue/Pierre",
+    "type": "dict",
+    "count": 58,
+    "chars": 7458
+  },
+  {
+    "asset": "Characters/Dialogue/rainy",
+    "type": "dict",
+    "count": 30,
+    "chars": 2765
+  },
+  {
+    "asset": "Characters/Dialogue/Robin",
+    "type": "dict",
+    "count": 58,
+    "chars": 7128
+  },
+  {
+    "asset": "Characters/Dialogue/Sam",
+    "type": "dict",
+    "count": 117,
+    "chars": 12942
+  },
+  {
+    "asset": "Characters/Dialogue/Sandy",
+    "type": "dict",
+    "count": 21,
+    "chars": 3209
+  },
+  {
+    "asset": "Characters/Dialogue/Sebastian",
+    "type": "dict",
+    "count": 125,
+    "chars": 12604
+  },
+  {
+    "asset": "Characters/Dialogue/Shane",
+    "type": "dict",
+    "count": 71,
+    "chars": 6739
+  },
+  {
+    "asset": "Characters/Dialogue/Vincent",
+    "type": "dict",
+    "count": 27,
+    "chars": 2042
+  },
+  {
+    "asset": "Characters/Dialogue/Willy",
+    "type": "dict",
+    "count": 42,
+    "chars": 6030
+  },
+  {
+    "asset": "Characters/Dialogue/Wizard",
+    "type": "dict",
+    "count": 24,
+    "chars": 3066
+  },
+  {
+    "asset": "Characters/Dwarf",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Elliott",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Elliott_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Elliott_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Emily",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Emily_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Emily_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Evelyn",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Evelyn_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Farmer/accessories",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Farmer/farmer_base",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Farmer/farmer_base_bald",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Farmer/farmer_base_mannequin",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Farmer/farmer_base_mannequin_cursed",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Farmer/farmer_girl_base",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Farmer/farmer_girl_base_bald",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Farmer/farmer_girl_mannequin",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Farmer/farmer_girl_mannequin_cursed",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Farmer/hairstyles",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Farmer/hairstyles2",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Farmer/hats",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Farmer/hats_animals",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Farmer/pants",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Farmer/shirts",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Farmer/shoeColors",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Farmer/skinColors",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Fizz",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/George",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/George_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Gourmand",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Governor",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Grandpa",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Gunther",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Gus",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Gus_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Haley",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Haley_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Haley_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Harvey",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Harvey_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Harvey_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Henchman",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/IslandParrot",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Jas",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Jas_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Jodi",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Jodi_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Jodi_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Junimo",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Kent",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Kent_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Krobus",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Krobus_Trenchcoat",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/KrobusRaven",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Leah",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Leah_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Leah_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/LeahExFemale",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/LeahExMale",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Lewis",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Lewis_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Lewis_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Linus",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Linus_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Marcello",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Mariner",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Marlon",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Marnie",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Marnie_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Marnie_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Maru",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Maru_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Maru_Hospital",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Maru_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Angry Roger",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Armored Bug",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Armored Bug_dangerous",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Assassin Bug",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Bat",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Bat_dangerous",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Big Slime",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Blue Squid",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Bug",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Bug_dangerous",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Carbon Ghost",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Cat",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Crow",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Duggy",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Duggy_dangerous",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Dust Spirit",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Dust Spirit_dangerous",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Dwarvish Sentry",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/False Magma Cap",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Fireball",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Fly",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Fly_dangerous",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Frog",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Frost Bat",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Frost Bat_dangerous",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Ghost",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Green Slime",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Green Slime_dangerous",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Grub",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Grub_dangerous",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Haunted Skull",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Haunted Skull_dangerous",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Hot Head",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Iridium Bat",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Iridium Crab",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Iridium Golem",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Lava Bat",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Lava Crab",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Lava Crab_dangerous",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Lava Lurk",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Magma Duggy",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Magma Sparker",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Magma Sprite",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Metal Head",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Metal Head_dangerous",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Mummy",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Mummy_dangerous",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Pepper Rex",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Putrid Ghost",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Rock Crab",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Rock Crab_dangerous",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Royal Serpent",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Serpent",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Shadow Brute",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Shadow Brute_dangerous",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Shadow Girl",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Shadow Shaman",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Shadow Shaman_dangerous",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Shadow Sniper",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Skeleton",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Skeleton Mage",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Skeleton Mage_dangerous",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Skeleton_dangerous",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Spider",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Spiker",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Squid Kid",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Squid Kid_dangerous",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Stick Bug",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Stone Golem",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Stone Golem_dangerous",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Tiger Slime",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Truffle Crab",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Monsters/Wilderness Golem",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Morris",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/MrQi",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/mrs_raccoon",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Pam",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Pam_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Pam_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/ParrotBoy",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/ParrotBoy_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Penny",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Penny_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Penny_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Pierre",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Pierre_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Pierre_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/raccoon",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Robin",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Robin_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Robin_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/robot",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/SafariGuy",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Sam",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Sam_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Sam_JojaMart",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Sam_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Sandy",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/schedules/Abigail",
+    "type": "dict",
+    "count": 23,
+    "chars": 2570
+  },
+  {
+    "asset": "Characters/schedules/Alex",
+    "type": "dict",
+    "count": 15,
+    "chars": 2070
+  },
+  {
+    "asset": "Characters/schedules/Caroline",
+    "type": "dict",
+    "count": 11,
+    "chars": 1776
+  },
+  {
+    "asset": "Characters/schedules/Clint",
+    "type": "dict",
+    "count": 8,
+    "chars": 790
+  },
+  {
+    "asset": "Characters/schedules/Demetrius",
+    "type": "dict",
+    "count": 10,
+    "chars": 1593
+  },
+  {
+    "asset": "Characters/schedules/Elliott",
+    "type": "dict",
+    "count": 16,
+    "chars": 2068
+  },
+  {
+    "asset": "Characters/schedules/Emily",
+    "type": "dict",
+    "count": 15,
+    "chars": 2884
+  },
+  {
+    "asset": "Characters/schedules/Evelyn",
+    "type": "dict",
+    "count": 12,
+    "chars": 1797
+  },
+  {
+    "asset": "Characters/schedules/George",
+    "type": "dict",
+    "count": 9,
+    "chars": 1141
+  },
+  {
+    "asset": "Characters/schedules/Gus",
+    "type": "dict",
+    "count": 8,
+    "chars": 1381
+  },
+  {
+    "asset": "Characters/schedules/Haley",
+    "type": "dict",
+    "count": 16,
+    "chars": 2375
+  },
+  {
+    "asset": "Characters/schedules/Harvey",
+    "type": "dict",
+    "count": 15,
+    "chars": 2166
+  },
+  {
+    "asset": "Characters/schedules/Jas",
+    "type": "dict",
+    "count": 13,
+    "chars": 1498
+  },
+  {
+    "asset": "Characters/schedules/Jodi",
+    "type": "dict",
+    "count": 13,
+    "chars": 2799
+  },
+  {
+    "asset": "Characters/schedules/Kent",
+    "type": "dict",
+    "count": 7,
+    "chars": 856
+  },
+  {
+    "asset": "Characters/schedules/Leah",
+    "type": "dict",
+    "count": 15,
+    "chars": 1733
+  },
+  {
+    "asset": "Characters/schedules/Leo",
+    "type": "dict",
+    "count": 4,
+    "chars": 537
+  },
+  {
+    "asset": "Characters/schedules/LeoMainland",
+    "type": "dict",
+    "count": 14,
+    "chars": 1666
+  },
+  {
+    "asset": "Characters/schedules/Lewis",
+    "type": "dict",
+    "count": 20,
+    "chars": 3046
+  },
+  {
+    "asset": "Characters/schedules/Linus",
+    "type": "dict",
+    "count": 8,
+    "chars": 900
+  },
+  {
+    "asset": "Characters/schedules/Marnie",
+    "type": "dict",
+    "count": 13,
+    "chars": 1443
+  },
+  {
+    "asset": "Characters/schedules/Maru",
+    "type": "dict",
+    "count": 17,
+    "chars": 2343
+  },
+  {
+    "asset": "Characters/schedules/Pam",
+    "type": "dict",
+    "count": 9,
+    "chars": 818
+  },
+  {
+    "asset": "Characters/schedules/Penny",
+    "type": "dict",
+    "count": 22,
+    "chars": 2569
+  },
+  {
+    "asset": "Characters/schedules/Pierre",
+    "type": "dict",
+    "count": 5,
+    "chars": 459
+  },
+  {
+    "asset": "Characters/schedules/Robin",
+    "type": "dict",
+    "count": 9,
+    "chars": 1131
+  },
+  {
+    "asset": "Characters/schedules/Sam",
+    "type": "dict",
+    "count": 22,
+    "chars": 2463
+  },
+  {
+    "asset": "Characters/schedules/Sandy",
+    "type": "dict",
+    "count": 3,
+    "chars": 772
+  },
+  {
+    "asset": "Characters/schedules/Sebastian",
+    "type": "dict",
+    "count": 19,
+    "chars": 2457
+  },
+  {
+    "asset": "Characters/schedules/Shane",
+    "type": "dict",
+    "count": 15,
+    "chars": 2401
+  },
+  {
+    "asset": "Characters/schedules/template",
+    "type": "dict",
+    "count": 9,
+    "chars": 395
+  },
+  {
+    "asset": "Characters/schedules/Vincent",
+    "type": "dict",
+    "count": 13,
+    "chars": 1449
+  },
+  {
+    "asset": "Characters/schedules/Willy",
+    "type": "dict",
+    "count": 13,
+    "chars": 1433
+  },
+  {
+    "asset": "Characters/SeaMonsterKrobus",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Sebastian",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Sebastian_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Sebastian_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Shane",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Shane_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Shane_JojaMart",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Shane_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Toddler",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Toddler_dark",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Toddler_girl",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Toddler_girl_dark",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/TrashBear",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Vincent",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Vincent_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Willy",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Willy_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Characters/Wizard",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Data/Achievements",
+    "type": "other",
+    "error": "InvalidCastException"
+  },
+  {
+    "asset": "Data/AdditionalFarms",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/AdditionalLanguages",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/AdditionalWallpaperFlooring",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/animationDescriptions",
+    "type": "dict",
+    "count": 105,
+    "chars": 7707
+  },
+  {
+    "asset": "Data/AquariumFish",
+    "type": "dict",
+    "count": 72,
+    "chars": 893
+  },
+  {
+    "asset": "Data/AudioChanges",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/BigCraftables",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/Boots",
+    "type": "dict",
+    "count": 18,
+    "chars": 1446
+  },
+  {
+    "asset": "Data/Buffs",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/Buildings",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/Bundles",
+    "type": "dict",
+    "count": 31,
+    "chars": 2538
+  },
+  {
+    "asset": "Data/ChairTiles",
+    "type": "dict",
+    "count": 60,
+    "chars": 2683
+  },
+  {
+    "asset": "Data/Characters",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/Concessions",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/ConcessionTastes",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/CookingRecipes",
+    "type": "dict",
+    "count": 81,
+    "chars": 3479
+  },
+  {
+    "asset": "Data/CraftingRecipes",
+    "type": "dict",
+    "count": 150,
+    "chars": 8126
+  },
+  {
+    "asset": "Data/Crops",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/EngagementDialogue",
+    "type": "dict",
+    "count": 26,
+    "chars": 2481
+  },
+  {
+    "asset": "Data/Events/AbandonedJojaMart",
+    "type": "dict",
+    "count": 1,
+    "chars": 1606
+  },
+  {
+    "asset": "Data/Events/AnimalShop",
+    "type": "dict",
+    "count": 4,
+    "chars": 8767
+  },
+  {
+    "asset": "Data/Events/ArchaeologyHouse",
+    "type": "dict",
+    "count": 4,
+    "chars": 7967
+  },
+  {
+    "asset": "Data/Events/Backwoods",
+    "type": "dict",
+    "count": 1,
+    "chars": 5134
+  },
+  {
+    "asset": "Data/Events/BathHouse_Pool",
+    "type": "dict",
+    "count": 2,
+    "chars": 2244
+  },
+  {
+    "asset": "Data/Events/Beach",
+    "type": "dict",
+    "count": 12,
+    "chars": 20307
+  },
+  {
+    "asset": "Data/Events/BoatTunnel",
+    "type": "dict",
+    "count": 1,
+    "chars": 1540
+  },
+  {
+    "asset": "Data/Events/BusStop",
+    "type": "dict",
+    "count": 4,
+    "chars": 9639
+  },
+  {
+    "asset": "Data/Events/CommunityCenter",
+    "type": "dict",
+    "count": 1,
+    "chars": 3521
+  },
+  {
+    "asset": "Data/Events/DesertFestival",
+    "type": "dict",
+    "count": 1,
+    "chars": 86
+  },
+  {
+    "asset": "Data/Events/ElliottHouse",
+    "type": "dict",
+    "count": 5,
+    "chars": 4828
+  },
+  {
+    "asset": "Data/Events/Farm",
+    "type": "dict",
+    "count": 27,
+    "chars": 23675
+  },
+  {
+    "asset": "Data/Events/FarmHouse",
+    "type": "dict",
+    "count": 14,
+    "chars": 25491
+  },
+  {
+    "asset": "Data/Events/FishShop",
+    "type": "dict",
+    "count": 1,
+    "chars": 2738
+  },
+  {
+    "asset": "Data/Events/Forest",
+    "type": "dict",
+    "count": 16,
+    "chars": 29938
+  },
+  {
+    "asset": "Data/Events/HaleyHouse",
+    "type": "dict",
+    "count": 11,
+    "chars": 17642
+  },
+  {
+    "asset": "Data/Events/HarveyRoom",
+    "type": "dict",
+    "count": 1,
+    "chars": 1006
+  },
+  {
+    "asset": "Data/Events/Hospital",
+    "type": "dict",
+    "count": 5,
+    "chars": 7222
+  },
+  {
+    "asset": "Data/Events/IslandFarmHouse",
+    "type": "dict",
+    "count": 0,
+    "chars": 0
+  },
+  {
+    "asset": "Data/Events/IslandHut",
+    "type": "dict",
+    "count": 1,
+    "chars": 4295
+  },
+  {
+    "asset": "Data/Events/IslandNorth",
+    "type": "dict",
+    "count": 1,
+    "chars": 2816
+  },
+  {
+    "asset": "Data/Events/IslandSouth",
+    "type": "dict",
+    "count": 3,
+    "chars": 5922
+  },
+  {
+    "asset": "Data/Events/IslandWest",
+    "type": "dict",
+    "count": 1,
+    "chars": 3021
+  },
+  {
+    "asset": "Data/Events/JoshHouse",
+    "type": "dict",
+    "count": 6,
+    "chars": 10174
+  },
+  {
+    "asset": "Data/Events/LeahHouse",
+    "type": "dict",
+    "count": 8,
+    "chars": 7687
+  },
+  {
+    "asset": "Data/Events/ManorHouse",
+    "type": "dict",
+    "count": 2,
+    "chars": 7837
+  },
+  {
+    "asset": "Data/Events/Mine",
+    "type": "dict",
+    "count": 3,
+    "chars": 3771
+  },
+  {
+    "asset": "Data/Events/Mountain",
+    "type": "dict",
+    "count": 13,
+    "chars": 23906
+  },
+  {
+    "asset": "Data/Events/QiNutRoom",
+    "type": "dict",
+    "count": 1,
+    "chars": 1835
+  },
+  {
+    "asset": "Data/Events/Railroad",
+    "type": "dict",
+    "count": 3,
+    "chars": 10989
+  },
+  {
+    "asset": "Data/Events/Saloon",
+    "type": "dict",
+    "count": 12,
+    "chars": 20981
+  },
+  {
+    "asset": "Data/Events/SamHouse",
+    "type": "dict",
+    "count": 7,
+    "chars": 8888
+  },
+  {
+    "asset": "Data/Events/SandyHouse",
+    "type": "dict",
+    "count": 1,
+    "chars": 531
+  },
+  {
+    "asset": "Data/Events/ScienceHouse",
+    "type": "dict",
+    "count": 7,
+    "chars": 17160
+  },
+  {
+    "asset": "Data/Events/SebastianRoom",
+    "type": "dict",
+    "count": 24,
+    "chars": 15578
+  },
+  {
+    "asset": "Data/Events/SeedShop",
+    "type": "dict",
+    "count": 8,
+    "chars": 15352
+  },
+  {
+    "asset": "Data/Events/Sewer",
+    "type": "dict",
+    "count": 1,
+    "chars": 4981
+  },
+  {
+    "asset": "Data/Events/Sunroom",
+    "type": "dict",
+    "count": 1,
+    "chars": 2449
+  },
+  {
+    "asset": "Data/Events/Temp",
+    "type": "dict",
+    "count": 7,
+    "chars": 8886
+  },
+  {
+    "asset": "Data/Events/Tent",
+    "type": "dict",
+    "count": 0,
+    "chars": 0
+  },
+  {
+    "asset": "Data/Events/Town",
+    "type": "dict",
+    "count": 28,
+    "chars": 74202
+  },
+  {
+    "asset": "Data/Events/Trailer",
+    "type": "dict",
+    "count": 3,
+    "chars": 5508
+  },
+  {
+    "asset": "Data/Events/Trailer_Big",
+    "type": "dict",
+    "count": 2,
+    "chars": 2352
+  },
+  {
+    "asset": "Data/Events/WizardHouse",
+    "type": "dict",
+    "count": 2,
+    "chars": 5589
+  },
+  {
+    "asset": "Data/Events/Woods",
+    "type": "dict",
+    "count": 2,
+    "chars": 7942
+  },
+  {
+    "asset": "Data/ExtraDialogue",
+    "type": "dict",
+    "count": 147,
+    "chars": 27759
+  },
+  {
+    "asset": "Data/FarmAnimals",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/Fences",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/Festivals/fall16",
+    "type": "dict",
+    "count": 94,
+    "chars": 14062
+  },
+  {
+    "asset": "Data/Festivals/fall27",
+    "type": "dict",
+    "count": 94,
+    "chars": 10417
+  },
+  {
+    "asset": "Data/Festivals/FestivalDates",
+    "type": "dict",
+    "count": 8,
+    "chars": 187
+  },
+  {
+    "asset": "Data/Festivals/spring13",
+    "type": "dict",
+    "count": 82,
+    "chars": 14016
+  },
+  {
+    "asset": "Data/Festivals/spring24",
+    "type": "dict",
+    "count": 85,
+    "chars": 10097
+  },
+  {
+    "asset": "Data/Festivals/summer11",
+    "type": "dict",
+    "count": 105,
+    "chars": 19797
+  },
+  {
+    "asset": "Data/Festivals/summer28",
+    "type": "dict",
+    "count": 86,
+    "chars": 12910
+  },
+  {
+    "asset": "Data/Festivals/winter25",
+    "type": "dict",
+    "count": 93,
+    "chars": 11514
+  },
+  {
+    "asset": "Data/Festivals/winter8",
+    "type": "dict",
+    "count": 96,
+    "chars": 18363
+  },
+  {
+    "asset": "Data/Fish",
+    "type": "dict",
+    "count": 74,
+    "chars": 5881
+  },
+  {
+    "asset": "Data/FishPondData",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/FloorsAndPaths",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/FruitTrees",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/Furniture",
+    "type": "dict",
+    "count": 645,
+    "chars": 73486
+  },
+  {
+    "asset": "Data/GarbageCans",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/GiantCrops",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/HairData",
+    "type": "other",
+    "error": "InvalidCastException"
+  },
+  {
+    "asset": "Data/hats",
+    "type": "dict",
+    "count": 122,
+    "chars": 9943
+  },
+  {
+    "asset": "Data/HomeRenovations",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/IncomingPhoneCalls",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/JukeboxTracks",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/LocationContexts",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/Locations",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/LostItemsShop",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/Machines",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/mail",
+    "type": "dict",
+    "count": 179,
+    "chars": 43708
+  },
+  {
+    "asset": "Data/MakeoverOutfits",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/Mannequins",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/Minecarts",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/Monsters",
+    "type": "dict",
+    "count": 51,
+    "chars": 5265
+  },
+  {
+    "asset": "Data/MonsterSlayerQuests",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/Movies",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/MoviesReactions",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/MuseumRewards",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/NPCGiftTastes",
+    "type": "dict",
+    "count": 39,
+    "chars": 10214
+  },
+  {
+    "asset": "Data/Objects",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/PaintData",
+    "type": "dict",
+    "count": 12,
+    "chars": 557
+  },
+  {
+    "asset": "Data/Pants",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/PassiveFestivals",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/Pets",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/Powers",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/Quests",
+    "type": "dict",
+    "count": 66,
+    "chars": 15467
+  },
+  {
+    "asset": "Data/RandomBundles",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/SecretNotes",
+    "type": "other",
+    "error": "InvalidCastException"
+  },
+  {
+    "asset": "Data/Shirts",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/Shops",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/SpecialOrders",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/TailoringRecipes",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/Tools",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/TriggerActions",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/Trinkets",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/TV/CookingChannel",
+    "type": "dict",
+    "count": 32,
+    "chars": 8768
+  },
+  {
+    "asset": "Data/TV/TipChannel",
+    "type": "dict",
+    "count": 64,
+    "chars": 13744
+  },
+  {
+    "asset": "Data/Weapons",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/Weddings",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/WildTrees",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Data/WorldMap",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Effects/ShadowRemove",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Effects/ShadowRemoveMG3.8.0",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Fonts/Chinese",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Fonts/Chinese_0",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Fonts/Chinese_1",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Fonts/Chinese_2",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Fonts/Chinese_3",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Fonts/Chinese_round/Chinese",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Fonts/Chinese_round/Chinese_0",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Fonts/Japanese",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Fonts/Japanese_0",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Fonts/Japanese_1",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Fonts/Korean",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Fonts/Korean_00",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Fonts/Korean_01",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Fonts/Korean_02",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Fonts/Korean_03",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Fonts/Korean_04",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Fonts/Korean_05",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Fonts/Korean_06",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Fonts/Korean_07",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Fonts/Korean_08",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Fonts/Korean_09",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Fonts/Korean_10",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Fonts/Korean_11",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Fonts/Russian",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Fonts/Russian_0",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Fonts/SmallFont",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Fonts/SpriteFont1",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Fonts/tinyFont",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/AquariumFish",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/Bat",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/Billboard",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/birds",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/boardGame",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/boardGameBorder",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/Book_Animation",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/BundleSprites",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/chatBox",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/Cloudy_Ocean_BG",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/Cloudy_Ocean_BG_Night",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/Concessions",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/ControllerMaps",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/cowPhotos",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/cowPhotosWinter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/CraneGame",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/CraneGame_international",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/Cursors",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/Cursors_1_6",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/Cursors2",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/daybg",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/DesertRacers",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/dye_bench",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/emojis",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/EmoteMenu",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/farm_ranching_icon",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/Farm_ranching_map",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/Farm_ranching_map_fall",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/Farm_ranching_map_summer",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/Farm_ranching_map_winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/Fence1",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/Fence2",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/Fence3",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/Fence5",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/FieldOfficeDonationMenu",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/font_bold",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/font_colored",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/ForgeMenu",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/GemBird",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/Giftbox",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/JojaCDForm",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/JunimoNote",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/JunimoNoteMobile",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/JunimoNoteMobile_raccoon",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/LanguageButtons",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/letterBG",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/Lighting/fishTankLight",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/Lighting/greenLight",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/Lighting/indoorWindowLight",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/Lighting/lantern",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/Lighting/pinpointLight",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/Lighting/projectorLight",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/Lighting/sconceLight",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/Lighting/treeLights",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/Lighting/windowLight",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/LightRays",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/logo",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/map",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/map_fall",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/map_island",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/map_summer",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/map_winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/marnie_winter_dance",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/MobileAtlas_manually_made",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/MobileAtlas_tencent",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/Movies",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/mute_voice_icon",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/nightbg",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/ParrotPlatform",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/parrots",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/PlayerStatusList",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/PrizeTicketMenu",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/raccoon_bundle_menu",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/raccoon_circle_cutout",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/SandDuggy",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/SeaMonster",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/shadow",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/SpecialOrdersBoard",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/squidFestLetterBG",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/stardewPanorama",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/steamAnimation",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/SuspensionBridge",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/swimShadow",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/tailoring",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/temporary_sprites_1",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/terraria_cat",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/textBox",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/troutDerbyLetterBG",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/WillysBoat",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "LooseSprites/yellowLettersLogo",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/AbandonedJojaMart",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/AdventureGuild",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/AnimalShop",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/ArchaeologyHouse",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Backwoods",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Backwoods_GraveSite",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Backwoods_Staircase",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Barn",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Barn2",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Barn3",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/BathHouse_Entry",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/BathHouse_MensLocker",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/BathHouse_Pool",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/bathhouse_tiles",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/BathHouse_WomensLocker",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Beach",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Beach_SquidFest",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Beach_SquidFest_Revert",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Beach_SquidFestSign_Revert",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Beach-Jellies",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Beach-Jellies2",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Beach-Luau",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Beach-Luau2",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Beach-NightMarket",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Blacksmith",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/BoatTunnel",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/boatTunnelTiles",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/BugLand",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/bugLandTiles",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Bus(people)",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/busPeople",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/BusStop",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Caldera",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/CarolineGreenhouseTiles",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/CarolineGreenhouseTiles_rainy",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/cave",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Cellar",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/characterSheet",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Club",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/CommunityCenter_Joja",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/CommunityCenter_Refurbished",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/CommunityCenter_Ruins",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Coop",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Coop2",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Coop3",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/coopTiles",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Darkroom",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/darkroom_tiles",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Desert",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/desert_festival_tilesheet",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/desert_festival_tilesheet_text",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/desert_festival_tilesheet_text_international",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Desert-Festival",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/DesertTiles",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/DesertTiles_Extended",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/ElliottHouse",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/ElliottHouseTiles",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/ElliottSea",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/ElliottSeaTiles",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/EmilyDreamscape",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/EmilyDreamscapeTiles",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/fall_beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/fall_island_tilesheet_1",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/fall_monsterGraveTiles",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/fall_outdoorsTileSheet",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/fall_outdoorsTileSheet2",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/fall_outdoorTileSheet_extra",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/fall_Shadows",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/fall_town",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/fall_Waterfalls",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Farm",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Farm Obelisk",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Farm_Combat",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Farm_Fishing",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Farm_Foraging",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Farm_FourCorners",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Farm_Greenhouse_Dirt",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Farm_Greenhouse_Dirt_FourCorners",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Farm_Island",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Farm_Mining",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Farm_Ranching",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/FarmCave",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/FarmHouse",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/FarmHouse_Bedroom_Normal",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/FarmHouse_Bedroom_Open",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/FarmHouse_Cellar",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/FarmHouse_ChildBed_0",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/FarmHouse_ChildBed_1",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/FarmHouse_CornerRoom_Add",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/FarmHouse_CornerRoom_Remove",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/FarmHouse_Crib_0",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/FarmHouse_Crib_1",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/FarmHouse_Cubby_Add",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/FarmHouse_Cubby_Remove",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/FarmHouse_DiningRoom_Add",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/FarmHouse_DiningRoom_Remove",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/FarmHouse_DiningRoomWall_Add",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/FarmHouse_DiningRoomWall_Remove",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/FarmHouse_ExtendedCornerRoom_Add",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/FarmHouse_ExtendedCornerRoom_Remove",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/FarmHouse_FarUpperRoom_Add",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/FarmHouse_FarUpperRoom_Remove",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/FarmHouse_SouthernRoom_Add",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/FarmHouse_SouthernRoom_Remove",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/farmhouse_tiles",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/FarmHouse1",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/FarmHouse1_marriage",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/FarmHouse2",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/FarmHouse2_marriage",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Festivals",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/FishingDerbyTiles",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/FishingDerbyTiles_international",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/FishingGame",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/FishShop",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/floors_2",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Forest",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Forest_FishingDerby",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Forest_FishingDerby_Revert",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Forest_FishingDerbySign",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Forest_FishingDerbySign_Revert",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Forest_RaccoonHouse",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Forest_RaccoonStump",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Forest-FlowerFestival",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Forest-FlowerFestival2",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Forest-IceFestival",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Forest-IceFestival2",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Forest-SewerClean",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Greenhouse",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/HaleyHouse",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/HarveyBalloon",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/HarveyBalloonTiles",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/HarveyRoom",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Hospital",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Island_Bridge_Broken",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Island_Bridge_Repaired",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Island_CaptainRoom",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Island_E",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Island_FarmCave",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Island_FieldOffice",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Island_FieldOffice_Tilesheet",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Island_House_Bin",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Island_House_Cave",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Island_House_Restored",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Island_Hut",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Island_Hut_tilesheet",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Island_N",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Island_N_Trader",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Island_Resort",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Island_S",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Island_SE",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Island_Secret",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Island_Shrine",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/island_tilesheet_1",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/island_tilesheet_2",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Island_W",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Island_W_Obelisk",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/IslandFarmHouse",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/IslandNorthCave1",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/IslandSouthEastCave",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/IslandSouthEastCave_pirates",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/IslandWestCave1",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/JojaMart",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/JojaRuins_TileSheet",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/JoshHouse",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/LeahHouse",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/LeoTreeHouse",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/LeoTreeHouse_Tilesheet",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/LewisBasement",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/ManorHouse",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/MarnieBarn",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/MaruBasement",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/MasteryCave",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/masteryCaveTilesheet",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/MenuTiles",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/MenuTilesUncolored",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/mermaid_house_tiles",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/MermaidHouse",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mine",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/1",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/10",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/11",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/12",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/120",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/13",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/14",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/15",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/16",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/17",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/18",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/19",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/2",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/20",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/21",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/22",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/23",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/24",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/25",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/26",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/27",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/28",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/29",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/3",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/31",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/32",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/33",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/34",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/35",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/36",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/37",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/38",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/39",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/4",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/40",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/41",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/42",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/43",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/44",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/45",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/46",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/47",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/48",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/49",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/5",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/50",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/51",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/52",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/53",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/54",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/55",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/56",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/57",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/58",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/59",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/6",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/60",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/7",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/77377",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/8",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/9",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/mine",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Mines/mine_dangerous",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Mines/mine_dark",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Mines/mine_dark_dangerous",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Mines/mine_desert",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Mines/mine_desert_dangerous",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Mines/mine_desert_dark",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Mines/mine_desert_dark_dangerous",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Mines/mine_dino",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Mines/mine_frost",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Mines/mine_frost_dangerous",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Mines/mine_frost_dark",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Mines/mine_frost_dark_dangerous",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Mines/mine_lava",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Mines/mine_lava_dangerous",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Mines/mine_lava_dark",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Mines/mine_lava_dark_dangerous",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Mines/mine_quarryshaft",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Mines/mine_slime",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Mines/mine_slime_dangerous",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Mines/volcano_caldera",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Mines/volcano_dungeon",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Mines/Volcano_DwarfShop",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/Volcano_SetPieces_16",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/Volcano_SetPieces_3",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/Volcano_SetPieces_32",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/Volcano_SetPieces_4",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/Volcano_SetPieces_8",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/Volcano_Well",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mines/VolcanoTemplate",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mountain",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mountain_Shortcuts",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Mountain-BridgeFixed",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/MovieTheater",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/MovieTheater_TileSheet",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/MovieTheaterJoja_TileSheet",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/MovieTheaterJoja_TileSheet_international",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/MovieTheaterScreen",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/MovieTheaterScreen_TileSheet",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/night_market_tilesheet_objects",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/nightSceneMaru",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/NightSceneMaruMap",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/NightSceneMaruMap2",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/nightSceneMaruTrees",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/paths",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/pirates_tilesheet",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/QiNutRoom",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/qiNutRoom_tilesheet",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Railroad",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/RefurbishedSaloonRoom",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Saloon",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/SamHouse",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/SamShow",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/samshowtiles",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/SandyHouse",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/ScienceHouse",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/SebastianMountain",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/sebastianMountainTiles",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/SebastianRide",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/sebastianRideTiles",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/SebastianRoom",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/SeedShop",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Sewer",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/SewerTiles",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Shed",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Shed2",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/SkullCave",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/SkullCaveAltar",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/SlimeHutch",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/spousePatios",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/spouseRooms",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/spring_beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/spring_island_tilesheet_1",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/spring_monsterGraveTiles",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/spring_outdoorsTileSheet",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/spring_outdoorsTileSheet2",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/spring_outdoorTileSheet_extra",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/spring_Shadows",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/spring_town",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/spring_Waterfalls",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/springobjects",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Stadium",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/stadium_tiles",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Submarine",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/submarine_tilesheet",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/summer_beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/summer_island_tilesheet_1",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/summer_monsterGraveTiles",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/summer_outdoorsTileSheet",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/summer_outdoorsTileSheet2",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/summer_outdoorTileSheet_extra",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/summer_Shadows",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/summer_town",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/summer_Waterfalls",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Summit",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Sunroom",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/TargetGame",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Tent",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Town",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Town-Christmas",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Town-Christmas2",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Town-DogHouse",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Town-EggFestival",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Town-EggFestival2",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Town-Fair",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Town-Fair2",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Town-Halloween",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Town-Halloween2",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Town-Theater",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Town-TheaterCC",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Town-TheaterCC-Halloween2",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Town-TrashGone",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/townInterior",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/townInterior_2",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/Trailer",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Trailer_big",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Tunnel",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/wallpapers_2",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/walls_and_floors",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/winter_beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/winter_island_tilesheet_1",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/winter_monsterGraveTiles",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/winter_outdoorsTileSheet",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/winter_outdoorsTileSheet2",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/winter_outdoorTileSheet_extra",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/winter_Shadows",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/winter_town",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/winter_Waterfalls",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/WitchHut",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/WitchHutTiles",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/WitchSwamp",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/witchSwampTiles",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Maps/WitchWarpCave",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/WizardHouse",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/WizardHouseBasement",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Maps/Woods",
+    "type": "other",
+    "error": "ContentLoadException"
+  },
+  {
+    "asset": "Minigames/Amuzio",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Minigames/Clouds",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Minigames/Darts",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Minigames/fall_boatJourneyMap",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Minigames/Intro",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Minigames/jojacorps",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Minigames/MaruComet",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Minigames/MineCart",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Minigames/spring_boatJourneyMap",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Minigames/summer_boatJourneyMap",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Minigames/TitleButtons",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Minigames/treestrip",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Minigames/winter_boatJourneyMap",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Minigames/Xb1ProfileButton",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Abigail",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Abigail_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Abigail_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Alex",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Alex_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Alex_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/AnsweringMachine",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Bear",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Birdie",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Bouncer",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Caroline",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Caroline_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Caroline_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Clint",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Clint_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Clint_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Demetrius",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Demetrius_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Dwarf",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Elliott",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Elliott_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Elliott_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Emily",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Emily_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Emily_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Evelyn",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Evelyn_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Fizz",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/George",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/George_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Gil",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Governor",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Grandpa",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Gunther",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Gus",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Gus_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Haley",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Haley_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Haley_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Harvey",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Harvey_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Harvey_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Henchman",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Jas",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Jas_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Jodi",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Jodi_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Jodi_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Kent",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Kent_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Krobus",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Krobus_Trenchcoat",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Leah",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Leah_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Leah_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Lewis",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Lewis_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Linus",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Linus_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Marlon",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Marnie",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Marnie_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Marnie_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Maru",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Maru_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Maru_Hospital",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Maru_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Morris",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/MrQi",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Pam",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Pam_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Pam_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/ParrotBoy",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/ParrotBoy_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Penny",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Penny_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Penny_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Pierre",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Pierre_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Pierre_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Robin",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Robin_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Robin_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/SafariGuy",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Sam",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Sam_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Sam_JojaMart",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Sam_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Sandy",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Sebastian",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Sebastian_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Sebastian_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Shane",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Shane_Beach",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Shane_JojaMart",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Shane_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Vincent",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Vincent_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Willy",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Willy_Winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Portraits/Wizard",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "Strings/1_6_Strings",
+    "type": "dict",
+    "count": 592,
+    "chars": 42723
+  },
+  {
+    "asset": "Strings/animationDescriptions",
+    "type": "dict",
+    "count": 21,
+    "chars": 1280
+  },
+  {
+    "asset": "Strings/BigCraftables",
+    "type": "dict",
+    "count": 313,
+    "chars": 15233
+  },
+  {
+    "asset": "Strings/Buildings",
+    "type": "dict",
+    "count": 69,
+    "chars": 2999
+  },
+  {
+    "asset": "Strings/BundleNames",
+    "type": "dict",
+    "count": 19,
+    "chars": 400
+  },
+  {
+    "asset": "Strings/Characters",
+    "type": "dict",
+    "count": 171,
+    "chars": 15448
+  },
+  {
+    "asset": "Strings/credits",
+    "type": "other",
+    "error": "InvalidCastException"
+  },
+  {
+    "asset": "Strings/EnchantmentNames",
+    "type": "dict",
+    "count": 18,
+    "chars": 297
+  },
+  {
+    "asset": "Strings/Events",
+    "type": "dict",
+    "count": 27,
+    "chars": 1405
+  },
+  {
+    "asset": "Strings/FarmAnimals",
+    "type": "dict",
+    "count": 30,
+    "chars": 1714
+  },
+  {
+    "asset": "Strings/Furniture",
+    "type": "dict",
+    "count": 591,
+    "chars": 15406
+  },
+  {
+    "asset": "Strings/Lexicon",
+    "type": "dict",
+    "count": 20,
+    "chars": 1063
+  },
+  {
+    "asset": "Strings/Locations",
+    "type": "dict",
+    "count": 392,
+    "chars": 38252
+  },
+  {
+    "asset": "Strings/MovieConcessions",
+    "type": "dict",
+    "count": 48,
+    "chars": 2487
+  },
+  {
+    "asset": "Strings/MovieReactions",
+    "type": "dict",
+    "count": 269,
+    "chars": 22831
+  },
+  {
+    "asset": "Strings/Movies",
+    "type": "dict",
+    "count": 87,
+    "chars": 7825
+  },
+  {
+    "asset": "Strings/Notes",
+    "type": "dict",
+    "count": 22,
+    "chars": 11803
+  },
+  {
+    "asset": "Strings/NPCNames",
+    "type": "dict",
+    "count": 49,
+    "chars": 571
+  },
+  {
+    "asset": "Strings/Objects",
+    "type": "dict",
+    "count": 1532,
+    "chars": 77631
+  },
+  {
+    "asset": "Strings/Pants",
+    "type": "dict",
+    "count": 38,
+    "chars": 1724
+  },
+  {
+    "asset": "Strings/Quests",
+    "type": "dict",
+    "count": 2,
+    "chars": 97
+  },
+  {
+    "asset": "Strings/schedules/Abigail",
+    "type": "dict",
+    "count": 10,
+    "chars": 651
+  },
+  {
+    "asset": "Strings/schedules/Alex",
+    "type": "dict",
+    "count": 6,
+    "chars": 480
+  },
+  {
+    "asset": "Strings/schedules/Caroline",
+    "type": "dict",
+    "count": 9,
+    "chars": 716
+  },
+  {
+    "asset": "Strings/schedules/Clint",
+    "type": "dict",
+    "count": 4,
+    "chars": 433
+  },
+  {
+    "asset": "Strings/schedules/Demetrius",
+    "type": "dict",
+    "count": 3,
+    "chars": 324
+  },
+  {
+    "asset": "Strings/schedules/Elliott",
+    "type": "dict",
+    "count": 4,
+    "chars": 353
+  },
+  {
+    "asset": "Strings/schedules/Emily",
+    "type": "dict",
+    "count": 16,
+    "chars": 1190
+  },
+  {
+    "asset": "Strings/schedules/Evelyn",
+    "type": "dict",
+    "count": 6,
+    "chars": 542
+  },
+  {
+    "asset": "Strings/schedules/George",
+    "type": "dict",
+    "count": 6,
+    "chars": 343
+  },
+  {
+    "asset": "Strings/schedules/Gus",
+    "type": "dict",
+    "count": 4,
+    "chars": 415
+  },
+  {
+    "asset": "Strings/schedules/Haley",
+    "type": "dict",
+    "count": 7,
+    "chars": 424
+  },
+  {
+    "asset": "Strings/schedules/Harvey",
+    "type": "dict",
+    "count": 7,
+    "chars": 523
+  },
+  {
+    "asset": "Strings/schedules/Jas",
+    "type": "dict",
+    "count": 6,
+    "chars": 367
+  },
+  {
+    "asset": "Strings/schedules/Jodi",
+    "type": "dict",
+    "count": 8,
+    "chars": 558
+  },
+  {
+    "asset": "Strings/schedules/Leah",
+    "type": "dict",
+    "count": 4,
+    "chars": 249
+  },
+  {
+    "asset": "Strings/schedules/Leo",
+    "type": "dict",
+    "count": 5,
+    "chars": 435
+  },
+  {
+    "asset": "Strings/schedules/Lewis",
+    "type": "dict",
+    "count": 8,
+    "chars": 565
+  },
+  {
+    "asset": "Strings/schedules/Linus",
+    "type": "dict",
+    "count": 2,
+    "chars": 193
+  },
+  {
+    "asset": "Strings/schedules/Marnie",
+    "type": "dict",
+    "count": 6,
+    "chars": 412
+  },
+  {
+    "asset": "Strings/schedules/Maru",
+    "type": "dict",
+    "count": 8,
+    "chars": 466
+  },
+  {
+    "asset": "Strings/schedules/Pam",
+    "type": "dict",
+    "count": 2,
+    "chars": 137
+  },
+  {
+    "asset": "Strings/schedules/Penny",
+    "type": "dict",
+    "count": 8,
+    "chars": 473
+  },
+  {
+    "asset": "Strings/schedules/Pierre",
+    "type": "dict",
+    "count": 1,
+    "chars": 88
+  },
+  {
+    "asset": "Strings/schedules/Robin",
+    "type": "dict",
+    "count": 4,
+    "chars": 303
+  },
+  {
+    "asset": "Strings/schedules/Sam",
+    "type": "dict",
+    "count": 9,
+    "chars": 717
+  },
+  {
+    "asset": "Strings/schedules/Sandy",
+    "type": "dict",
+    "count": 6,
+    "chars": 575
+  },
+  {
+    "asset": "Strings/schedules/Sebastian",
+    "type": "dict",
+    "count": 9,
+    "chars": 665
+  },
+  {
+    "asset": "Strings/schedules/Shane",
+    "type": "dict",
+    "count": 9,
+    "chars": 656
+  },
+  {
+    "asset": "Strings/schedules/Vincent",
+    "type": "dict",
+    "count": 4,
+    "chars": 193
+  },
+  {
+    "asset": "Strings/schedules/Willy",
+    "type": "dict",
+    "count": 10,
+    "chars": 831
+  },
+  {
+    "asset": "Strings/Shirts",
+    "type": "dict",
+    "count": 398,
+    "chars": 19188
+  },
+  {
+    "asset": "Strings/SimpleNonVillagerDialogues",
+    "type": "dict",
+    "count": 22,
+    "chars": 3554
+  },
+  {
+    "asset": "Strings/SpecialOrderStrings",
+    "type": "dict",
+    "count": 146,
+    "chars": 10455
+  },
+  {
+    "asset": "Strings/SpeechBubbles",
+    "type": "dict",
+    "count": 70,
+    "chars": 3070
+  },
+  {
+    "asset": "Strings/StringsFromCSFiles",
+    "type": "dict",
+    "count": 1673,
+    "chars": 83546
+  },
+  {
+    "asset": "Strings/StringsFromMaps",
+    "type": "dict",
+    "count": 367,
+    "chars": 23108
+  },
+  {
+    "asset": "Strings/Tools",
+    "type": "dict",
+    "count": 54,
+    "chars": 2466
+  },
+  {
+    "asset": "Strings/UI",
+    "type": "dict",
+    "count": 887,
+    "chars": 46710
+  },
+  {
+    "asset": "Strings/Weapons",
+    "type": "dict",
+    "count": 134,
+    "chars": 5976
+  },
+  {
+    "asset": "Strings/WorldMap",
+    "type": "dict",
+    "count": 14,
+    "chars": 551
+  },
+  {
+    "asset": "TerrainFeatures/Flooring",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/Flooring_winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/grass",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/hoeDirt",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/hoeDirtDark",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/hoeDirtSnow",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/mushroom_tree",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/mystic_tree",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/Stalagmite",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/Stalagmite_Frost",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/Stalagmite_Lava",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/tree_palm",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/tree_palm2",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/tree1_fall",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/tree1_greenRain",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/tree1_greenRain_fall",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/tree1_greenRain_winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/tree1_spring",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/tree1_summer",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/tree1_winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/tree2_fall",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/tree2_greenRain",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/tree2_greenRain_fall",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/tree2_greenRain_winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/tree2_spring",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/tree2_summer",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/tree2_winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/tree3_fall",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/tree3_greenRain",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/tree3_greenRain_fall",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/tree3_greenRain_winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/tree3_spring",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/tree3_winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/tree8_fall",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/tree8_spring",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/tree8_summer",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/tree8_winter",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TerrainFeatures/upperCavePlants",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/animations",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/bobbers",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/BuffsIcons",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/bushes",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/ChairTiles",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/companions",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/Craftables",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/critters",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/crops",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/debris",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/emotes",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/Fireball",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/Floors",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/FreeCactuses",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/fruitTrees",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/furniture",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/furniture_2",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/furniture_2Front",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/furniture_3",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/furniture_3Front",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/furnitureFront",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/joja_furniture",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/joja_furnitureFront",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/junimo_furniture",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/junimo_furnitureFront",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/mannequin_furniture",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/Mannequins",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/Objects_2",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/Projectiles",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/rain",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/retro_furniture",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/retro_furnitureFront",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/SecretNotesImages",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/tools",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/weapons",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/wizard_furniture",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "TileSheets/wizard_furnitureFront",
+    "type": "other",
+    "error": "InvalidOperationException"
+  },
+  {
+    "asset": "VolcanoLayouts/Layouts",
+    "type": "other",
+    "error": "InvalidOperationException"
+  }
+]

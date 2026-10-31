@@ -1,0 +1,7 @@
+{
+  "asset": "Strings/Quests",
+  "entries": {
+    "MessageFoundLostItem": "ﺷﻤﺎ {0} ﺭﺍ ﭘﯿﺪﺍ ﮐﺮﺩﯾﺪ. ﺑﻬﺘﺮ ﺍﺳﺖ ﺁﻥ ﺭﺍ ﺑﻪ {1} ﺑﺮﮔﺮﺩﺍﻧﯿﺪ.",
+    "ObjectiveReturnToNPC": "ﺑﺎﺯﮔﺸﺖ ﺑﻪ {0}."
+  }
+}

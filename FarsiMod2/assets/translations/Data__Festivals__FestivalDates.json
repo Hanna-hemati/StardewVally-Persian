@@ -1,0 +1,13 @@
+{
+  "asset": "Data/Festivals/FestivalDates",
+  "entries": {
+    "spring13": "ﺟﺸﻨﻮﺍﺭﻩ ﺗﺨﻢ ﻣﺮﻍ",
+    "spring24": "ﺭﻗﺺ ﮔﻞ",
+    "summer11": "ﻟﻮﺋﻮ",
+    "summer28": "ﺭﻗﺺ ﮊﻟﻪ ﻫﺎﯼ ﻣﻬﺘﺎﺑﯽ",
+    "fall16": "ﻧﻤﺎﯾﺸﮕﺎﻩ Stardew Valley",
+    "fall27": "ﺷﺐ ﺭﻭﺡ",
+    "winter8": "ﺟﺸﻨﻮﺍﺭﻩ ﯾﺦ",
+    "winter25": "ﺟﺸﻦ ﺳﺘﺎﺭﻩ ﺯﻣﺴﺘﺎﻥ"
+  }
+}

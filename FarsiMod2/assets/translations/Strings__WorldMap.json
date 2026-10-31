@@ -1,0 +1,19 @@
+{
+  "asset": "Strings/WorldMap",
+  "entries": {
+    "GingerIsland_East_JungleHut": "ﮐﻠﺒﻪ ﺟﻨﮕﻠﯽ",
+    "GingerIsland_North_DigSite": "ﻣﺤﻮﻃﻪ ﺣﻔﺎﺭﯼ",
+    "GingerIsland_North_FieldOffice": "ﺩﻓﺘﺮ ﻣﯿﺪﺍﻧﯽ",
+    "GingerIsland_North_Trader": "ﺗﺎﺟﺮ ﺟﺰﯾﺮﻩ",
+    "GingerIsland_North_Volcano": "ﺁﺗﺸﻔﺸﺎﻥ",
+    "GingerIsland_South_Dock": "ﻗﺎﯾﻖ ﻭﯾﻠﯽ",
+    "GingerIsland_South_Resort": "ﺗﻔﺮﯾﺤﮕﺎﻩ",
+    "GingerIsland_SouthEast_PirateCove": "ﺧﻠﯿﺠﮏ ﺩﺯﺩﺍﻥ ﺩﺭﯾﺎﯾﯽ",
+    "GingerIsland_West_BirdieShack": "ﮐﻠﺒﻪ ﺑﺮﺩﯼ",
+    "GingerIsland_West_GourmandCave": "ﻗﻮﺭﺑﺎﻏﻪ ﺷﮑﻤﻮ",
+    "GingerIsland_West_House": "ﺧﺎﻧﻪ ﻣﺰﺭﻋﻪ ﺟﺰﯾﺮﻩ",
+    "GingerIsland_West_QiWalnutRoom": "ﺍﺗﺎﻕ ﮔﺮﺩﻭﯾﯽ ﭼﯽ",
+    "GingerIsland_West_Shipwreck": "ﮐﺸﺘﯽ ﺷﮑﺴﺘﻪ",
+    "GingerIsland_West_TigerSlimeGrove": "ﺑﯿﺸﻪ ﺍﺳﻼﯾﻢ ﺑﺒﺮﯼ"
+  }
+}
